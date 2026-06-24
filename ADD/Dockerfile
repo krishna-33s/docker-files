@@ -1,2 +1,2 @@
 FROM almalinux
-ADD https://raw.githubusercontent.com/krishna-33s/roboshop.project/refs/heads/main/catalogue.sh
+ADD https://raw.githubusercontent.com/krishna-33s/roboshop.project/refs/heads/main/catalogue.sh  /bin/
