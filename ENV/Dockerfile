@@ -1,3 +1,3 @@
 FROM almalinux
 ENV MONGO_IP="mongodb-dev.krishnadev.space"\
-    MONGO_user = "admin"
+    MONGO_USER = "admin"
