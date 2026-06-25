@@ -5,5 +5,5 @@ ARG Course="DEVSECOPS" \
     Trainer="SivaKumar" \
     Organization="JoinDevops"
 
-RUN echo "hii this is:{Trainer}"    
+RUN echo "hii this is: ${Trainer}"    
 CMD ["sleep","100"]
