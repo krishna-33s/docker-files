@@ -1,5 +1,5 @@
 ARG version
-FROM almalinx:${version:-8}
+FROM almalinux:${version:-8}
 ARG Course="DEVSECOPS" \
     Duration="5 months" \
     Trainer="SivaKumar" \
