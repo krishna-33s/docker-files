@@ -1,4 +1,4 @@
-FROM alamlinux
+FROM alamlinux:9
 RUN dnf install nginx -y
 RUN useradd krishna
 
